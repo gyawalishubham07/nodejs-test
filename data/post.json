@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "userid": 1,
+      "title": "Exploring Kathmandu",
+      "content": "Kathmandu is a beautiful city with a rich history and vibrant culture. A must-visit destination!"
+    },
+    {
+      "id": 2,
+      "userid": 1,
+      "title": "Kathmandu's Nightlife",
+      "content": "The nightlife in Kathmandu is vibrant, with lots of great spots to relax and enjoy."
+    },
+    {
+      "id": 3,
+      "userid": 2,
+      "title": "Adventure Activities in Pokhara",
+      "content": "From paragliding to boating in Phewa Lake, Pokhara is the adventure capital of Nepal."
+    },
+    {
+      "id": 4,
+      "userid": 3,
+      "title": "Travel Tips for Dharan",
+      "content": "Dharan is perfect for nature lovers. Visit the nearby hills and enjoy the scenic views."
+    }
+  ]
+  

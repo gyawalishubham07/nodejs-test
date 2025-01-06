@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Suresh Shrestha",
+    "address": "Kathmandu, Nepal"
+  },
+  {
+    "id": 2,
+    "name": "Anjali Gurung",
+    "address": "Pokhara, Nepal"
+  },
+  {
+    "id": 3,
+    "name": "Bikash Rai",
+    "address": "Dharan, Nepal"
+  },
+  {
+    "id": 4,
+    "name": "Mina Thapa",
+    "address": "Biratnagar, Nepal"
+  },
+  {
+    "id": 5,
+    "name": "Ramesh Adhikari",
+    "address": "Lalitpur, Nepal"
+  }
+]
